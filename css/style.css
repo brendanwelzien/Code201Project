@@ -1,0 +1,18 @@
+h1 {color:orange;
+border-style:ridge;
+border-spacing:20px;
+padding:20px;}
+
+h2 {color: whitesmoke;}
+
+body {text-align:center;
+background-color:royalblue;}
+
+section > p { font-size: 20px;
+color:orange;
+border-style:double;
+}
+
+footer{color:orange;
+font-size:15px;}
+
