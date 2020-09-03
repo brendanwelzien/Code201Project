@@ -6,3 +6,5 @@
     - functions of *alert*, *prompt*, *var*, *if and else statements*
     - feedback responses using the for loop where you have to guess the number
     - usage of an array with a loop
+Driver: Ryan P.
+Navigator was Brenden W.
