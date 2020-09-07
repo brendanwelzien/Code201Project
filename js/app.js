@@ -1,3 +1,4 @@
+/*
 'use strict';
 console.log('file connected');
 
@@ -126,3 +127,4 @@ if (guesses === 0) {
 }
 q7();
 alert(' Your final score is ' + score + '/7');
+*/
